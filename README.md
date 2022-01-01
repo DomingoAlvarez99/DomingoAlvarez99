@@ -3,9 +3,11 @@
 [![Gmail](https://img.shields.io/badge/-dalvarezcaba@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dalvarezcaba@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-green?style=flat-square&logo=appveyor&logoColor=white)](https://domingoalvarez99.github.io/portfolio)
 
-Mi nombre es Domingo y soy desarrollador de Software. Trato de crear código sostenible siguiendo buenas prácticas.
+Desarrollar es mi pasión, trato de seguir buenas prácticas y de crear código sostenible. Mi motivación es la continua formación y evolución dentro de este mundo.
 
-Actualmente estoy desarrollando una [aplicación](https://github.com/DomingoAlvarez99/ddd-example) usando Arquitectura Hexagonal, DDD, CQRS y buenas prácticas en general en mi tiempo libre con el objetivo de seguir aprendiendo y mejorando.
+Además tengo experiencia en mantener y administrar sistemas, implementar flujos de trabajo CI/CD, automatizar tareas manuales y desplegar aplicaciones en contenedores de software.
+
+Actualmente estoy desarrollando una [aplicación](https://github.com/DomingoAlvarez99/ddd-example) usando Arquitectura Hexagonal, DDD, CQRS y buenas prácticas en general.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomingoAlvarez99&locale=es&layout=compact&show_icons=true&title_color=151515&text_color=848080)](https://github.com/DomingoAlvarez99?tab=repositories)
 
